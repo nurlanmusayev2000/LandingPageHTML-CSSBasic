@@ -1,0 +1,44 @@
+.container {
+    margin: 10px;
+    font-size: 1rem;
+}
+
+.catMedia {
+    text-align: center;
+}
+
+.catMedia img {
+    border: 8px solid purple;
+}
+
+.lionTable {
+    text-align: center;
+}
+
+.lionTable img {
+    border: 8px solid rgb(176, 101, 15);
+    margin-top: 20px;
+}
+
+td,
+th {
+    border: 1px solid;
+}
+
+table>thead>th {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+.firstTableHeading {
+    border: 2px solid red;
+    color: red;
+}
+
+table td {
+    height: 65px;
+}
